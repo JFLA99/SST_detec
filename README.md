@@ -9,5 +9,8 @@ Es un ejemplo de detecciones de seguridad y salud en el trabajo, principalmente 
 6. listar los archivosque tuvieron cambios (git status)
 7. visualizar cambios en los archivos (git diff nombre archivo)
 8. agregarcambios al area de preparación ( git add nombre archivo)
+9. comentario acerca de los cambios en el archivo (git commit -m "Mi primer commit: pasos para aprender a usar git hub")
+10. subir al repositorio los cambios ( git push origin feature/nombre_branch)
+11. traer cambios del repositorio (git pull origin feature/nombre_branch)
 
 # pasos docker 
